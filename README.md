@@ -1,16 +1,43 @@
-# agenda_anotacoes
+# 📒 Agenda de Anotações Flutter
 
-A new Flutter project.
+Uma aplicação **simples e funcional** de anotações desenvolvida em **Flutter**, ideal para quem está dando os primeiros passos na criação de apps com essa tecnologia.
 
-## Getting Started
+## 🚀 Sobre o Projeto
 
-This project is a starting point for a Flutter application.
+Este projeto tem como objetivo apresentar de forma prática os fundamentos do Flutter. Ele permite:
 
-A few resources to get you started if this is your first Flutter project:
+* ✏️ Criar anotações rapidamente
+* 🗑️ Deletar anotações
+* 📋 Visualizar uma lista de anotações
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tudo isso com um layout leve, responsivo e fácil de entender.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Funcionalidades Ensinadas
+
+* Estrutura básica de um app Flutter
+* Utilização de **Widgets** como `Scaffold`, `TextField`, `ListView`, `FloatingActionButton`, entre outros
+* Manipulação de **estado**
+* Organização do projeto em arquivos e widgets reutilizáveis
+
+## 📸 Preview
+
+Em breve...
+
+## 📦 Tecnologias
+
+* [Flutter](https://flutter.dev/)
+* [Dart](https://dart.dev/)
+
+## 🧠 Ideal para quem...
+
+* Está aprendendo Flutter e quer um exemplo prático
+* Precisa de um projeto base para expandir com novas funcionalidades
+* Gosta de aprender construindo algo real e funcional
+
+## ✅ Como rodar o projeto
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/emersonnjsantos/Futter_apps.git
+   ```
